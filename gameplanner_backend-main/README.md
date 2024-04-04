@@ -18,7 +18,7 @@ The backend repository for GamePlanner, an online booking management system for 
 
 ## Installation
 1. Clone the repository:
-```git clone https://github.com/Chandrakiran437/GamePlanner_Backend.git```
+```git clone https://github.com/Chandrakiran437/GamePlanner.git```
 2. Install dependencies:
 ```cd GamePlanner_Backend```
 ```npm install```
